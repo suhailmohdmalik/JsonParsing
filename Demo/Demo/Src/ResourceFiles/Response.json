@@ -1,0 +1,43 @@
+{
+  "data": {
+    "score": 780,
+    "timestamp": 1582036788,
+    "categories": [
+      {
+        "min_value": 825,
+        "max_value": 900,
+        "rank": 1,
+        "percentage": 19,
+        "color": "314a3f"
+      },
+      {
+        "min_value": 800,
+        "max_value": 824,
+        "rank": 2,
+        "percentage": 20,
+        "color": "71d1a6"
+      },
+      {
+        "min_value": 775,
+        "max_value": 799,
+        "rank": 3,
+        "percentage": 21,
+        "color": "718cd1"
+      },
+      {
+        "min_value": 700,
+        "max_value": 774,
+        "rank": 4,
+        "percentage": 21,
+        "color": "bb71d1"
+      },
+      {
+        "min_value": 300,
+        "max_value": 699,
+        "rank": 5,
+        "percentage": 19,
+        "color": "b82149"
+      }
+    ]
+  }
+}
