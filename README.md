@@ -1,3 +1,4 @@
+
 The Demo has 2 parts
 * Library
 * Demo App
@@ -7,3 +8,5 @@ Library:
 
 Demo App:
 * Supply the data/JSON to the library to render the UI
+
+![Score](Demo/Demo/Src/Sample%20Images/Score.png)
